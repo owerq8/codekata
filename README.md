@@ -1,2 +1,3 @@
 # codekata
 hoho
+hihi
